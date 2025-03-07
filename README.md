@@ -3,4 +3,5 @@ The Employee Tracker is a Node.js-based command-line application designed to str
 
 Whether you're a small business owner, a project manager, or part of the HR team, the Employee Tracker simplifies administrative tasks and helps you stay organized without the need for complex spreadsheets.
 
-Video Link ->
+Video Link -> https://github.com/user-attachments/assets/53bf9dbe-8b63-4c2b-bb19-77991c84f513
+
